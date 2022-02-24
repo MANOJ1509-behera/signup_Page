@@ -1,0 +1,45 @@
+body{
+  background-color:#90E0EF;
+  text-align: center;
+}
+.emailid{
+  display:block;
+  margin:30px;
+  padding:10px;
+    margin :200px 450px 10px 450px;
+}
+fgh{
+
+}
+
+h1{
+  margin:20px 400px ;
+}
+h3{
+  margin:auto;
+  position:relative;
+  bottom:30px;
+}
+.log_div{
+
+}
+
+
+.name{
+    display:block;
+    margin:30px;
+    padding:10px;
+      margin :auto 450px;
+      margin-bottom:10px;
+
+}
+.sub{
+
+  padding:10px;
+  position:relative;
+  right:190px;
+
+}
+.sub:hover{
+  color:#FFE6AB;
+}
